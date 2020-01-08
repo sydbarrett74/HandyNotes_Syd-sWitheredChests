@@ -1,0 +1,14 @@
+## Interface: 70200
+## Title: HandyNotes_WitheredChests
+## Version: 1.2
+## Notes: Shows location of chests in the Withered Army Training scenario.
+## Author: crunchy
+## RequiredDeps: HandyNotes
+## SavedVariables: HandyNotes_WitheredChestsDB
+#
+# Thanks go to Tecosu for the idea for the addon and beta testing! More thanks
+# have go to the comments on Wowhead for the Withered Army Training scenario
+# without which I couldn't've made this addon.
+#
+
+main.lua

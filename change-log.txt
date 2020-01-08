@@ -1,0 +1,24 @@
+Change Log
+==========
+
+1.2.1
+-----
+- Version 1.2 was marked as Beta by mistake.
+
+1.2
+---
+- Updated interface version for patch 7.2.
+- Fixed for scenario changes in patch 7.2.
+- Fixed last chest not being shown.
+- Added note about the mobs in the second room, which requires 2 Beserkers to
+  open.
+
+1.1
+---
+- Added number of Withered required to send back each chest, on the tooltip.
+- Chests now disapear off the map and mini-map as soon as you send them back,
+  unless you check "Show Completed" in the options menu.
+
+1.0
+---
+- Initial release.
