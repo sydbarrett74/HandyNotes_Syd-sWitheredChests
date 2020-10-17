@@ -266,7 +266,7 @@ local function findClosestChest(mapFile, level, posX, posY)
     return nil
 end
 
-hooksecurefunc("SelectGossipOption", function ()
+hooksecurefunc("C_GossipInfo.SelectOption", function ()
     local mapID = C_Map.GetBestMapForUnit("player")
 	WorldMapFrame:SetMapID(mapID)
     local _, _, _, _, mapFile = C_Map.GetMapInfo(mapID)
